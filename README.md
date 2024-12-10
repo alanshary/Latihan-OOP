@@ -72,4 +72,4 @@ Code Program Tersebut:
 
 Hasil Program Tersebut:
 
-![gambar](https://github.com/andreanbadeh/Latihan-OOP/blob/1143d6fa951b5abb514b802727d827813f8f4ea8/Images/Screenshot%202024-12-10%20082537.png)
+![Screenshot (46)](https://github.com/user-attachments/assets/9e126a98-fb1a-4a67-8530-205fc4b33cf6)
